@@ -1,0 +1,6 @@
+#!/bin/bash
+# Wrapper for NeYO CLI
+# Resolve symlinks to find the true directory
+REAL_PATH=$(realpath "${BASH_SOURCE[0]}")
+SCRIPT_DIR=$(dirname "$REAL_PATH")
+python3 "$SCRIPT_DIR/ready-multi-agent/scripts/neyo.py" "$@"

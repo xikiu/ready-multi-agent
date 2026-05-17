@@ -1,0 +1,40 @@
+{
+  "bio": "Senior Software Engineer specializing in distributed systems and cloud-native applications. Passionate about building scalable, resilient, and user-centric solutions.",
+  "projects": [
+    {
+      "title": "Quantum Ledger",
+      "description": "High-performance distributed database with cryptographic verification.",
+      "imageUrl": "https://via.placeholder.com/600x400?text=Quantum+Ledger"
+    },
+    {
+      "title": "Nebula Dashboard",
+      "description": "Real-time monitoring system for multi-cloud deployments.",
+      "imageUrl": "https://via.placeholder.com/600x400?text=Nebula+Dashboard"
+    },
+    {
+      "title": "Titan Crawler",
+      "description": "Scalable web indexing engine with automated semantic analysis.",
+      "imageUrl": "https://via.placeholder.com/600x400?text=Titan+Crawler"
+    },
+    {
+      "title": "Flux Gateway",
+      "description": "Edge computing platform for ultra-low latency API routing.",
+      "imageUrl": "https://via.placeholder.com/600x400?text=Flux+Gateway"
+    },
+    {
+      "title": "Cortex Engine",
+      "description": "Modular AI framework for predictive maintenance in industrial IoT.",
+      "imageUrl": "https://via.placeholder.com/600x400?text=Cortex+Engine"
+    },
+    {
+      "title": "Aether Mesh",
+      "description": "Decentralized service mesh for zero-trust networking.",
+      "imageUrl": "https://via.placeholder.com/600x400?text=Aether+Mesh"
+    }
+  ],
+  "contact": {
+    "email": "hello@example.com",
+    "linkedin": "https://linkedin.com/in/placeholder",
+    "github": "https://github.com/placeholder"
+  }
+}
